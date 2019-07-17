@@ -1,0 +1,10 @@
+{
+  "name": "Терклоросс серия",
+  "short_name": "TCS2019",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "https://tracklocross.ru/"
+}
